@@ -2,7 +2,7 @@
 /**
  * @wordpress-plugin
  * Plugin Name: Attachment URL Version
- * Plugin URI: https://github.com/ott/wordpress-attachment-url-version 
+ * Plugin URI: https://wordpress.org/plugins/attachment-url-version
  * Description: Adds the version number of attachments to their URL.
  * Version: 1.0.0
  * Author: Matthias-Christian Ott
