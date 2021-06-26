@@ -4,7 +4,7 @@
  * Plugin Name: Attachment URL Version
  * Plugin URI: https://wordpress.org/plugins/attachment-url-version
  * Description: Adds the version number of attachments to their URL.
- * Version: 1.0.2
+ * Version: 1.0.3
  * Author: Matthias-Christian Ott
  * License: GPLv2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
