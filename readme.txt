@@ -12,9 +12,9 @@ Adds the version number of attachments to their URL.
 
 == Description ==
 
-By default, attachments do not have a version query parameter, like, for example JavaScript have. This plugins adds version numbers to the query strings of attachments.
+By default, attachments do not have a version query parameter, like, for example JavaScript files have. This plugins adds version numbers to the query strings of attachments.
 
-Version numbers are useful for caching. If an attachment changes, its version number and, therefore, its URL changes. This allows for the attachment to be cached for an extended period of time or indefintely, for example, with the directive "immutable" of the Cache-Control header.
+Version numbers in query strings are useful for caching. If an attachment changes, its version number and, therefore, its URL changes. This allows for the attachment to be cached for an extended period of time or indefintely, for example, with the directive "immutable" of the Cache-Control header.
 
 == Changelog ==
 
