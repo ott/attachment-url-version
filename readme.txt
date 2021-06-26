@@ -4,7 +4,7 @@ Tags: attachment, cache
 Requires at least: 4.5
 Tested up to: 5.7
 Requires PHP: 7.4
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,6 +17,9 @@ By default, attachments do not have a version query parameter, like, for example
 Version numbers are useful for caching. If an attachment changes, its version number and, therefore, its URL changes. This allows for the attachment to be cached for an extended period of time or indefintely, for example, with the directive "immutable" of the Cache-Control header.
 
 == Changelog ==
+
+= 1.0.1 =
+* Change plugin URL to wordpress.org.
 
 = 1.0.0 =
 * Initial release.
